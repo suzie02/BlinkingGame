@@ -1,0 +1,41 @@
+{
+  "modelName": "texture",
+  "name": "stump",
+  "identifier": "texture:2535-89984c2a-6799-499d-ab11-f689dfceea75",
+  "alphaPremultiplicationMode": "should_premultiply",
+  "assetDataHash": "62fe717f2d54fcf0963c8bc726916c41",
+  "assetLocator": "textures/stump.png",
+  "colorEncoding": "linear",
+  "compressionQuality": "high",
+  "coordMapping": "none",
+  "excludeDuringExport": false,
+  "excludeFromPackage": false,
+  "exportConfigurations": [
+    "textureExportConfig:3229-89984c2a-6799-499d-ab11-f689dfceea75",
+    "textureExportConfig:3417-89984c2a-6799-499d-ab11-f689dfceea75",
+    "textureExportConfig:3611-89984c2a-6799-499d-ab11-f689dfceea75"
+  ],
+  "filter": "bilinear",
+  "hasOfflineMipmaps": false,
+  "height": 510,
+  "importIssues": {},
+  "isExternalAsset": true,
+  "smartTextureTargetSizeLimit": "largest",
+  "targetSize": "largest",
+  "uWrapMode": "clamp",
+  "vWrapMode": "clamp",
+  "width": 490,
+  "children": [
+    {
+      "modelName": "data_texture_metadata_model",
+      "name": "data_texture_metadata_model0",
+      "assetDataHash": "62fe717f2d54fcf0963c8bc726916c41",
+      "colorCount": 2641,
+      "detectedAlphaChannel": "eight_bit_full_range",
+      "detectedOriginalFormat": "png",
+      "entropyOfDistribution": 3.61046928968759,
+      "pixelsHigh": 510,
+      "pixelsWide": 490
+    }
+  ]
+}
